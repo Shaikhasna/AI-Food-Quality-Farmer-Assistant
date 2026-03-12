@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+pillow
+tensorflow-model-optimization
+streamlit
+huggingface_hub
