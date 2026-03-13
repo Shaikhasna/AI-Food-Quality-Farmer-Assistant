@@ -63,7 +63,7 @@ This analysis highlights why **lightweight CNN architectures are ideal for real-
 
 After scanning an image, the system predicts the food type, freshness status, and nutritional information.
 
-![Scanner Output](docs/Output 1.png)
+![Scanner Output](docs/scanner_output.png)
 
 Example information returned:
 
@@ -79,7 +79,7 @@ Example information returned:
 
 The system also includes an AI-powered assistant capable of answering agricultural questions.
 
-![Chatbot Output](docs/Output 2.png)
+![Chatbot Output](docs/chatbot_output.png)
 
 Farmers can ask questions such as:
 
