@@ -183,5 +183,5 @@ HF_TOKEN="your_huggingface_token"
 - AI-assisted decision support for farmers
 
 ## Author
-Shaik Hasna
+Shaik Hasna - 
 Artificial Intelligence & Data Science Graduate
